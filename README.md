@@ -141,7 +141,7 @@ target_link_libraries( # Specifies the target library.
 
 `UseOpenCVByCpp\app\src\main\res\drawable`
 
-![test](testpic1.jpg)
+![test](Screenshot/testpic1.jpg)
 
 ### 3.4 Modify native-lib.cpp
 
