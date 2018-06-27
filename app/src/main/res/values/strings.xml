@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UseOpenCVByCpp</string>
+    <string name="str_proc">GrayImage</string>
+</resources>
